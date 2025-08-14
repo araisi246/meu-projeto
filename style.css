@@ -32,7 +32,26 @@ background: #a62121;
   border-radius:6 px;
   max-width: 560 px;
   margin: auto;
-  box-shadow: 0 2px 5px rgba( 0,0,0,0.1)
+  box-shadow: 0 2 px 5 px rgba ( 0,0,0,0.1);
+}
+video {
+width: 100 %;
+border-radius: 4 px;
+}
+.info {
+margin-top:8 px;
+}
+.info h3 {
+font-size: 16 px;
+margin:4 px0;
+clor: #002f6c;
+}
+.info-size:  13 px;
+color: #e0dfdf;
+}
+  
+
+  
 
 
 
