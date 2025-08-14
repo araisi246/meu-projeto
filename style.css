@@ -43,10 +43,11 @@ margin-top:8 px;
 }
 .info h3 {
 font-size: 16 px;
-margin:4 px0;
+margin:4 px 0;
 clor: #002f6c;
 }
-.info-size:  13 px;
+.info p {
+  font-size:  13 px;
 color: #e0dfdf;
 }
   
